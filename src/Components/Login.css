@@ -1,0 +1,22 @@
+@supports (display: grid){
+    .Login{
+        padding: 0%;
+        height: 40vh;
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        font-family: cursive;
+    }
+    
+    .login-form, h1{
+        padding: 0%;
+        width: 80%;
+        border: lightcoral;
+        border-collapse: collapse;
+        align-self: flex-end;
+    }
+
+    h1{
+        background-color: lightgreen;
+    }
+}

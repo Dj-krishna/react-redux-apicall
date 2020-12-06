@@ -1,0 +1,10 @@
+.grid-container{
+    display: grid;
+}
+
+h1{
+    text-align: center;
+    background-color: lightseagreen;
+    width: 100%; 
+}
+
